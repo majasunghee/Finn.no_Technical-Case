@@ -1,0 +1,60 @@
+AdType: skateboard
+Current amount of ads: 29296
+Lowest value ad (kr): 99
+Highest value ad (kr): 5998
+Duplicated ads: 294
+
+AdType: car
+Current amount of ads: 2011
+Lowest value ad (kr): 10881
+Highest value ad (kr): 23479086
+Duplicated ads: 303
+
+AdType: dvdplayer
+Current amount of ads: 19347
+Lowest value ad (kr): 130
+Highest value ad (kr): 9099
+Duplicated ads: 491
+
+AdType: mc
+Current amount of ads: 6426
+Lowest value ad (kr): 1520
+Highest value ad (kr): 138542
+Duplicated ads: 564
+
+AdType: table
+Current amount of ads: 3419
+Lowest value ad (kr): 2
+Highest value ad (kr): 57860
+Duplicated ads: 589
+
+AdType: sofa
+Current amount of ads: 14204
+Lowest value ad (kr): 58
+Highest value ad (kr): 15999
+Duplicated ads: 738
+
+AdType: cat
+Current amount of ads: 4761
+Lowest value ad (kr): 3000
+Highest value ad (kr): 8011
+Duplicated ads: 792
+
+AdType: house
+Current amount of ads: 10978
+Lowest value ad (kr): 355194
+Highest value ad (kr): 209985550
+Duplicated ads: 888
+
+AdType: boat
+Current amount of ads: 979
+Lowest value ad (kr): 26851
+Highest value ad (kr): 99998110
+Duplicated ads: 901
+
+AdType: airplane
+Current amount of ads: 8579
+Lowest value ad (kr): 5801304
+Highest value ad (kr): 16298157
+Duplicated ads: 983
+
